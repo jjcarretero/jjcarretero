@@ -7,4 +7,4 @@ I am an architect and a software developer. After finishing architecture, my fin
 I had worked in software development for some time (mainly in VR and AR), I am a Unity3D teacher specialized in Videogames and I keep learning code development at 42 School in Madrid.
 
 ### Find me around the web 🌎
-Sharing info on [LinkedIn] (https://www.linkedin.com/in/juanjosecarretero)
+Sharing info on [LinkedIn](https://www.linkedin.com/in/juanjosecarretero)
