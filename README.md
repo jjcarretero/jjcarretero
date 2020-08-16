@@ -2,7 +2,7 @@
 
 *I was born in 1987 and I live in Madrid (Spain)*
 
-I am an architect and a software developer. After finishing architecture, my final career project was a parametric evolving urban area, in which I began coding a little. I became in love with coding and I decided to study a video game grade to continue to increase my skills with code and 3D modelling (which is very useful in architecture)
+I am an architect and a software developer. After finishing architecture, my final career project was a parametric evolving urban area, in which I began coding a little. I became in love with coding and I decided to study a video game grade to continue increasing my skills with code and 3D modelling (which is very useful in architecture)
 
 ### Nowadays...
 
