@@ -8,7 +8,7 @@ I am an architect and a software developer. After finishing architecture, my fin
 
 I had worked in software development for some time (mainly in VR and AR), I am a Unity3D teacher specialized in Videogames and I keep learning code development at 42 School in Madrid.
 
-[![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/jcarrete?privacyEmail=true&darkmode=true](https://github.com/JaeSeoKim/badge42)
+[![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/jcarrete?privacyEmail=true&darkmode=true)](https://github.com/JaeSeoKim/badge42)
 
 ### Find me around the web 🌎
 
