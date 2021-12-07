@@ -13,4 +13,4 @@ I am currently working in software development at SIMUMAK developing the Core co
 ### Find me around the web 🌎
 
 - Sharing info on [LinkedIn](https://www.linkedin.com/in/juanjosecarretero)
-- On my [Website](https://jjcacode.wordpress.com/)
+- On my [Website](https://jjcacode.wordpress.com/) (Under construction)
