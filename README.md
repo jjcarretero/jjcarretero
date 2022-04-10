@@ -8,7 +8,7 @@ I am an architect and a software developer. After finishing architecture, my fin
 
 I am currently working in software development at SIMUMAK developing the Core code of their Training Simulator for Vehicles,  I am a Unity3D teacher specialized in Videogames and I keep learning code development at 42 School in Madrid.
 
-[![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/jcarrete?privacyEmail=true)](https://github.com/JaeSeoKim/badge42)
+[![jcarrete's 42 stats](https://badge42.vercel.app/api/v2/cl1tp04t6002509l9140jynlo/stats?cursusId=21&coalitionId=66)](https://github.com/JaeSeoKim/badge42)
 
 ### Find me around the web 🌎
 
